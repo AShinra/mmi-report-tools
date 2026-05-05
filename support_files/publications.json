@@ -1,0 +1,614 @@
+{
+    "http://inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.inquirer.net/"
+    },
+    "http://business.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.business.inquirer.net/"
+    },
+    "http://opinion.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.opinion.inquirer.net/"
+    },
+    "http://canadianinquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Philippine Canadian Inquirer",
+        "Alt":"http://www.canadianinquirer.net/"
+    },
+    "http://globalnation.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.globalnation.inquirer.net/"
+    },
+    "http://lifestyle.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.lifestyle.inquirer.net/"
+    },
+    "http://sports.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.sports.inquirer.net/"
+    },
+    "http://technology.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.technology.inquirer.net/"
+    },
+    "http://usa.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.usa.inquirer.net/"
+    },
+    "http://pop.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.pop.inquirer.net/"
+    },
+    "http://newsinfo.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.newsinfo.inquirer.net/"
+    },
+    "http://entertainment.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.entertainment.inquirer.net/"
+    },
+    "http://esports.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inquirer.Net",
+        "Alt":"http://www.esports.inquirer.net/"
+    },
+    "http://malaya.com.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Malaya Business Insight Online",
+        "Alt":"http://www.malaya.com.ph/"
+    },
+    "http://malayaph.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Malaya Business Insight Online",
+        "Alt":"http://www.malaya.com/"
+    },
+    "http://appsgadget.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Apps Gadget",
+        "Alt":"http://www.appsgadget.com/"
+    },
+    "http://bigtito.net/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Big Tito",
+        "Alt":"http://www.bigtito.net/"
+    },
+    "http://brandxph.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Brand X Ph",
+        "Alt":"http://www.brandxph.com/"
+    },
+    "http://businessmirror.com.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Business Mirror Online",
+        "Alt":"http://www.businessmirror.com.ph/"
+    },
+    "http://cnn.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"CNN Philippines Online",
+        "Alt":"http://www.cnn.ph/"
+    },
+    "http://cnnphilippines.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"CNN Philippines Online",
+        "Alt":"http://www.cnnphilippines.com/"
+    },
+    "http://gadgetpilipinas.net/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Gadget Pilipinas Online",
+        "Alt":"http://www.gadgetpilipinas.net/"
+    },
+    "http://gizguide.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Giz Guide Online",
+        "Alt":"http://gizguide.com/"
+    },
+    "http://gmanetwork.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"GMA News Online",
+        "Alt":"http://www.gmanetwork.com/"
+    },
+    "http://manilastandard.net/mobile/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Manila Standard Mobile",
+        "Alt":"http://www.manilastandard.net/mobile/"
+    },
+    "http://manilastandard.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Manila Standard Online",
+        "Alt":"http://www.manilastandard.net/"
+    },
+    "http://msn.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"MSN Philippines Online",
+        "Alt":"http://www.msn.com/"
+    },
+    "http://onenews.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"One News Philippines Online",
+        "Alt":"http://www.onenews.ph/"
+    },
+    "http://philstar.com/pilipino-star-ngayon/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Pilipino Star Ngayon Online",
+        "Alt":"http://www.philstar.com/pilipino-star-ngayon/"
+    },
+    "http://philstar.com/the-freeman/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"The Freeman Online",
+        "Alt":"http://www.philstar.com/the-freeman/"
+    },
+    "http://philstar.com/cebu-news/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"The Freeman Online",
+        "Alt":"http://www.philstar.com/cebu-news/"
+    },
+    "http://philstar.com/pang-masa":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Pang Masa Online",
+        "Alt":"http://www.philstar.com/pang-masa"
+    },
+    "http://www.philstar.com/banat":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Banat Online",
+        "Alt":"http://www.philstar.com/banat"
+    },
+    "http://philstar.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Philstar",
+        "Alt":"http://www.philstar.com/"
+    },
+    "http://philstarlife.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Philstar Life",
+        "Alt":"http://www.philstarlife.com/"
+    },
+    "http://wazzup.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Wazzup Ph",
+        "Alt":"http://www.wazzup.ph/"
+    },
+    "http://insideretail.asia/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Inside Retail Philippines",
+        "Alt":"http://www.insideretail.asia/"
+    },
+    "http://ca.finance.yahoo.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Yahoo News",
+        "Alt":"http://www.ca.finance.yahoo.com/"
+    },
+    "http://ph.news.yahoo.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Yahoo News",
+        "Alt":"http://www.ph.news.yahoo.com/"
+    },
+    "http://sg.news.yahoo.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Yahoo News",
+        "Alt":"http://www.sg.news.yahoo.com/"
+    },
+    "http://yahoo.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Yahoo News",
+        "Alt":"http://www.yahoo.com/"
+    },
+    "http://ph.yahoo.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Yahoo News",
+        "Alt":"http://www.ph.yahoo.com/"
+    },    
+    "http://psr.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Philippine Showbiz Republic",
+        "Alt":"http://www.psr.ph/"
+    },
+    "http://asianjournal.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Asian Journal Online",
+        "Alt":"http://www.asianjournal.com/"
+    },
+    "http://interaksyon.philstar.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Interaksyon",
+        "Alt":"http://www.interaksyon.philstar.com/"
+    },
+    "http://dailyguardian.com.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"The Daily Guardian Online",
+        "Alt":"http://www.dailyguardian.com.ph/"
+    },
+    "http://motoph.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Motoph",
+        "Alt":"http://www.motoph.com/"
+    },
+    "http://spin.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Sports Interactive Network Philippines",
+        "Alt":"http://www.spin.ph/"
+    },
+    "http://megabites.com.ph":
+    {
+        "Type":"Online News",
+        "Pub_Name":"MegaBites",
+        "Alt":"http://www.megabites.com.ph"
+    },
+    "http://thefanboyseo.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"The Fanboy SEO",
+        "Alt":"http://www.thefanboyseo.com/"
+    },
+    "http://metropoler.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Metropoler",
+        "Alt":"http://www.metropoler.net/"
+    },
+    "http://pilipinomirror.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Pilipino Mirror Online",
+        "Alt":"http://www.pilipinomirror.com/"
+    },
+    "http://news.abs-cbn.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"ABS-CBN News",
+        "Alt":"http://www.news.abs-cbn.com/"
+    },
+    "http://zigzagweekly.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"ZigZag Weekly Online",
+        "Alt":"http://www.zigzagweekly.net/"
+    },
+    "http://www.dotdailydose.net/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Dot Daily Dose",
+        "Alt":"http://www.dotdailydose.net/"
+    },
+    "http://sports.yahoo.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Yahoo News",
+        "Alt":"http://www.sports.yahoo.com/"
+    },
+    "http://techandlifestylejournal.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Tech and Lifestyle Journal",
+        "Alt":"http://www.techandlifestylejournal.com/"
+    },
+    "http://yugatech.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Yugatech",
+        "Alt":"http://www.yugatech.com/"
+    },
+    "http://manilasociety.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Manila Society",
+        "Alt":"http://www.manilasociety.com/"
+    },
+    "http://da.gov.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Department of Agriculture - Online",
+        "Alt":"http://www.da.gov.ph/"
+    },
+    "http://ignition.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Ignition PH",
+        "Alt":"http://www.ignition.ph/"
+    },
+    "http://newsnow.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"News Now PH",
+        "Alt":"http://www.newsnow.ph/"
+    },
+    "http://news.visayandailystar.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"The Visayan Daily Star",
+        "Alt":"http://www.news.visayandailystar.com/"
+    },
+    "http://newscontroversialph.blogspot.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"OKEntertainment",
+        "Alt":"http://newscontroversialph.blogspot.com/"
+    },
+    "http://mindanaoexaminernewspaper.blogspot.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Mindanao Examiner Online",
+        "Alt":"http://www.mindanaoexaminernewspaper.blogspot.com/"
+    },
+    "http://mindanaotimes.com.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Mindanao Times Online",
+        "Alt":"http://www.mindanaotimes.com.ph/"
+    },
+    "http://techpatrl.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Tech Patrol Online",
+        "Alt":"http://www.techpatrl.com/"
+    },
+    "http://technobaboy.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Technobaboy",
+        "Alt":"http://www.technobaboy.com/"
+    },
+    "http://unitednews.net.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"United News Online",
+        "Alt":"http://www.unitednews.net.ph/"
+    },
+    "http://aseanbreakingnews.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Asean News",
+        "Alt":"http://www.aseanbreakingnews.com/"
+    },
+    "http://windowseat.ph/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Window Seat PH",
+        "Alt":"http://www.windowseat.ph/"
+    },
+    "http://www.finanzen.ch/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Finanzen CH",
+        "Alt":"http://www.finanzen.ch/"
+    },
+    "http://mattfalber.com/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Matt Falber",
+        "Alt":"http://www.mattfalber.com/"
+    },
+    "http://tfa.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"TFA Commercial Realty",
+        "Alt":"http://tfa.ph/"
+    },
+    "http://pia4b.wordpress.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"PIA MIMAROPA",
+        "Alt":"http://www.pia4b.wordpress.com/"
+    },
+    "http://untvweb.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"UNTV Online",
+        "Alt":"http://www.untvweb.com/"
+    },
+    "http://astig.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Astig PH",
+        "Alt":"http://www.astig.ph/"
+    },
+    "http://cornermagazineph.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Corner Magazine Philippines Online",
+        "Alt":"http://www.cornermagazineph.com/"
+    },
+    "http://my-juicy.net/":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"My Juicy",
+        "Alt":"http://www.my-juicy.net/"
+    },
+    "http://pep.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Philippine Entertainment Portal",
+        "Alt":"http://www.pep.ph/"
+    },
+    "http://pna.gov.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Philippine News Agency",
+        "Alt":"http://www.pna.gov.ph/"
+    },
+    "http://thepost.net.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"The Post",
+        "Alt":"http://www.thepost.net.ph/"
+    },
+    "http://topgear.com.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Top Gear Philippines Online",
+        "Alt":"http://www.topgear.com.ph/"
+    },
+    "http://formadellecose.blogspot.com":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"Formadellecose",
+        "Alt":"http://www.formadellecose.blogspot.com"
+    },
+    "http://ahappymum.com":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"A Happy Mum",
+        "Alt":"http://www.ahappymum.com"
+    },
+    "http://24pilipinas.com":
+    {
+        "Type":"Blogs",
+        "Pub_Name":"24 Pilipinas",
+        "Alt":"http://www.24pilipinas.com"
+    },
+    "http://agriculture.com.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Agriculture Magazine Online",
+        "Alt":"http://www.agriculture.com.ph/"
+    },
+    "http://animalscene.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Animal Secen Magazine Online",
+        "Alt":"http://www.animalscene.ph/"
+    },
+    "http://gadgetsmagazine.com.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Gadgets Magazines PH Online",
+        "Alt":"http://www.gadgetsmagazine.com.ph/"
+    },
+    "http://lifestyleasia.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Lifestyle Asia Magazine Online",
+        "Alt":"http://www.lifestyleasia.com/"
+    },
+    "http://metro.style/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Metro Magazine Online",
+        "Alt":"http://www.metro.style/"
+    },
+    "http://metro-society.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Metro Society Magazine Online",
+        "Alt":"http://www.metro-society.com/"
+    },
+    "http://orientaviation.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Orient Aviation Magazine Online",
+        "Alt":"http://www.orientaviation.com/"
+    },
+    "http://tatlerasia.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Philippine Tatler Online",
+        "Alt":"https://www.tatlerasia.com/"
+    },
+    "http://speed.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Speed Magazine Online",
+        "Alt":"http://www.speed.ph/"
+    },
+    "http://travelandleisure.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Travel and Leisure Magazine Online",
+        "Alt":"http://www.travelandleisure.com/"
+    },
+    "http://primer.com.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Philippine Primer Online",
+        "Alt":"http://primer.com.ph/"
+    },
+    "https://cebupacificair.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Smile Magazine Online",
+        "Alt":"https://www.cebupacificair.com/"
+    },
+    "http://cosmo.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Cosmopolitan Ph",
+        "Alt":"http://cosmo.ph/"
+    },
+    "https://palawanderer.com/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Palawanderer",
+        "Alt":"http://palawanderer.com/"
+    },
+    "https://pia.gov.ph/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Philippine Information Agency",
+        "Alt":"http://pia.gov.ph/"
+    },
+    "https://cebudailynews.inquirer.net/":
+    {
+        "Type":"Online News",
+        "Pub_Name":"Cebu Daily News Online",
+        "Alt":"http://cebudailynews.inquirer.net/"
+    }
+}

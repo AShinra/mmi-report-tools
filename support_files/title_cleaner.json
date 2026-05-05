@@ -1,0 +1,678 @@
+{
+    "2nd Opinion":[
+        "- 2nd Opinion",
+        "2nd Opinion"],
+    "2Ner":[
+        "2Ner"],
+    "5G Investment News":[
+        "5G Investment News"],
+    "8List.ph":[
+        "8List.ph"],
+    "A Lifestyle Compass":[
+        "A Lifestyle Compass"],
+    "ADOBO MAGAZINE":[
+        "- adobo Magazine",
+        "adobo Magazine"],
+    "All-Star Magazine":[
+        "ALLSTAR"],
+    "Amazing Manila Journal":[
+        "- Amazing Manila Journal",
+        "Amazing Manila Journal"],
+    "Andre Aguanco":[
+        "News and Feature"],
+    "ANIMEPH":[
+        "ANIMEPH"],
+    "Animetric's World":[
+        "Animetric's World"],
+    "Annyeong Oppa":[
+        "Annyeong Oppa"],
+    "Art+ Magazine Online":[
+        "Art Magazine"],
+    "Asiacasino":[
+        "Asia Casino News | ACNDong Fang Bo Cai Xin Wen"],
+    "Asian Dragon Online":[
+        "Asian Dragon Online"],
+    "Astig PH":[
+        "| ASTIG: Philippine News & Reviews",
+        "ASTIG: Philippine News & Reviews"],
+    "Astig Ph  Online":[
+        "| ASTIG.PH"],
+    "ATIN ITO":[
+        "Atin Ito | Ontario s First Filipino Community Newspaper  Trusted News and Stories for the FilipinoCanadian Community",
+        "Atin Ito"],
+    "Auto Deal":[
+        "| Autodeal"],
+    "autoandtech":[
+        "Autoblog"],
+    "AutoIndustriya.com":[
+        "Auto News",
+        "Racing News",
+        "Truck & Bus News",
+        "The Parking Lot",
+        "Feature Stories"],
+    "The Auto Ph":[
+        "AutoPH"],
+    "avgeekph":[
+        "AvGeek Philippines"],
+    "Back End News":[
+        "| Back End News",
+        "Back End News"],
+    "Balastech":[
+        "BALASTECH"],
+    "Balen Porac Pampanga":[
+        "Balen Porac Pampanga"],
+    "Balikas Online":[
+        "Balikas News Network"],
+    "Balita Filipino News":[
+        "balita.com"],
+    "Bitpinas":[
+        "| BitPinas"],
+    "Bob Reyes Online":[
+        "- The Filipino Tech Explainer",
+        "The Filipino Tech Explainer"],
+    "Bohol Tribune":[
+        "Bohol Tribune"],
+    "Booky":[
+        "| Booky",
+        "Booky"],
+    "brv.com.ph":[
+        "| Bravo News Ph"],
+    "Bulatlat":[
+        "Bulatlat"],
+    "Business Mirror":[
+        "| BusinessMirror and Cai U. Ordinario",
+        "BusinessMirror and Cai U. Ordinario",
+        "| Lorenz S. Marasigan and Andrea E. San Juan",
+        "Lorenz S. Marasigan and Andrea E. San Juan",
+        "| Lorenz S. Marasigan and Lenie Lectura",
+        "Lorenz S. Marasigan and Lenie Lectura",
+        "| Ben Stupples & Charlie Wells | Bloomberg",
+        "Ben Stupples & Charlie Wells | Bloomberg",
+        "| Low De Wei & Bernadette Toh | Bloomberg",
+        "Low De Wei & Bernadette Toh | Bloomberg",
+        "| Lenie Lectura and Samuel P. Medenilla",
+        "Lenie Lectura and Samuel P. Medenilla",
+        "| Lenie Lectura and Samuel Medenilla",
+        "Lenie Lectura and Samuel Medenilla",
+        "| Lito U. Gagni",
+        "Lito U. Gagni",
+        "| Michael O Boyle & Vinicius Andrade",
+        "Michael O Boyle & Vinicius Andrade",
+        "| VG Cabuag and Lorenz S. Marasigan",
+        "VG Cabuag and Lorenz S. Marasigan",
+        "| Ada Pelonia",
+        "Ada Pelonia",
+        "| Andrea E. San Juan",
+        "Andrea E. San Juan",
+        "| Andrea San Juan",
+        "Andrea San Juan",
+        "| Arabelle Jimenez",
+        "Arabelle Jimenez",
+        "| Bloomberg News",
+        "Bloomberg News",
+        "| BMPlus",
+        "BMPlus",
+        "| BusinessMirror",
+        "BusinessMirror",
+        "| Butch Fernandez",
+        "Butch Fernandez",
+        "| Cai U. Ordinario",
+        "Cai U. Ordinario",
+        "| Claudeth MoconCiriaco", 
+        "Claudeth MoconCiriaco",
+        "| Dinna Chan Vasquez",
+        "Dinna Chan Vasquez",
+        "| Dr. Jesus Lim Arranza",
+        "Dr. Jesus Lim Arranza",
+        "| Dr. Rene E. Ofreneo",
+        "Dr. Rene E. Ofreneo",
+        "| Ed Uy",
+        "Ed Uy",
+        "| Eleanor Satuito",
+        "Eleanor Satuito",
+        "| Joel R. San Juan",
+        "Joel R. San Juan",
+        "| Joel San Juan",
+        "Joel San Juan",
+        "| Joel L. TanTorres",
+        "Joel L. TanTorres",
+        "| Joel TanTorres",
+        "Joel TanTorres",
+        "| John Mangun",
+        "John Mangun",
+        "| Jonathan L. Mayuga",
+        "Jonathan L. Mayuga",
+        "| Jovee Marie de la Cruz",
+        "Jovee Marie de la Cruz",
+        "| JT Nisay",
+        "JT Nisay",
+        "| Karen AlparceVillanueva",
+        "Karen AlparceVillanueva",
+        "| Lenie Lectura", 
+        "Lenie Lectura",
+        "| Lorenz S. Marasigan",
+        "Lorenz S. Marasigan",
+        "| Ma. Stella F. Arnaldo",
+        "Ma. Stella F. Arnaldo",
+        "| Mila M. Lumactao",
+        "Mila M. Lumactao",
+        "| Nanette Guadalquiver | PNA",
+        "Nanette Guadalquiver | PNA",
+        "| Reine Juvierre Alberto",
+        "Reine Juvierre Alberto",
+        "| Reine Juvierre S. Alberto",
+        "Reine Juvierre S. Alberto",
+        "| Rizal Raoul S. Reyes",
+        "Rizal Raoul S. Reyes",
+        "| Rizal Raoul Reyes",
+        "Rizal Raoul Reyes",
+        "| Roderick Abad",
+        "Roderick Abad",
+        "| Samuel Medenilla",
+        "Samuel Medenilla",
+        "| Santiago F. Dumlao Jr.",
+        "Santiago F. Dumlao Jr.",
+        "| The Associated Press",
+        "The Associated Press",
+        "| VG Cabuag",
+        "VG Cabuag",
+        "| Yang Guoliang",
+        "Yang Guoliang"],
+    "Business Mirror Online":[
+        "| Bruce Shipkowski & Ken Miller",
+        "Bruce Shipkowski & Ken Miller",
+        " | Barbara Ortutay  AP Technology Writer",
+        "Barbara Ortutay  AP Technology Writer",
+        "| BusinessMirror and Cai U. Ordinario",
+        "BusinessMirror and Cai U. Ordinario",
+        "| Lorenz S. Marasigan and Andrea E. San Juan",
+        "Lorenz S. Marasigan and Andrea E. San Juan",
+        "| Lorenz S. Marasigan and Lenie Lectura",
+        "Lorenz S. Marasigan and Lenie Lectura",
+        "| Ben Stupples & Charlie Wells | Bloomberg",
+        "Ben Stupples & Charlie Wells | Bloomberg",
+        "| Low De Wei & Bernadette Toh | Bloomberg",
+        "Low De Wei & Bernadette Toh | Bloomberg",
+        "| Lenie Lectura and Samuel P. Medenilla",
+        "Lenie Lectura and Samuel P. Medenilla",
+        "| Lenie Lectura and Samuel Medenilla",
+        "Lenie Lectura and Samuel Medenilla",
+        "| Lito U. Gagni",
+        "Lito U. Gagni",
+        "| Michael O Boyle & Vinicius Andrade",
+        "Michael O Boyle & Vinicius Andrade",
+        "| VG Cabuag and Lorenz S. Marasigan",
+        "VG Cabuag and Lorenz S. Marasigan",
+        "| Ada Pelonia",
+        "Ada Pelonia",
+        "| Andrea E. San Juan",
+        "Andrea E. San Juan",
+        "| Andrea San Juan",
+        "Andrea San Juan",
+        "| Arabelle Jimenez",
+        "Arabelle Jimenez",
+        "| Bloomberg News",
+        "Bloomberg News",
+        "| BMPlus",
+        "BMPlus",
+        "| BusinessMirror",
+        "BusinessMirror",
+        "| Butch Fernandez",
+        "Butch Fernandez",
+        "| Cai U. Ordinario",
+        "Cai U. Ordinario",
+        "| Claudeth MoconCiriaco", 
+        "Claudeth MoconCiriaco",
+        "| Dinna Chan Vasquez",
+        "Dinna Chan Vasquez",
+        "| Dr. Jesus Lim Arranza",
+        "Dr. Jesus Lim Arranza",
+        "| Dr. Rene E. Ofreneo",
+        "Dr. Rene E. Ofreneo",
+        "| Ed Uy",
+        "Ed Uy",
+        "| Eleanor Satuito",
+        "Eleanor Satuito",
+        "| Joel R. San Juan",
+        "Joel R. San Juan",
+        "| Joel San Juan",
+        "Joel San Juan",
+        "| Joel L. TanTorres",
+        "Joel L. TanTorres",
+        "| Joel TanTorres",
+        "Joel TanTorres",
+        "| John Mangun",
+        "John Mangun",
+        "| Jonathan L. Mayuga",
+        "Jonathan L. Mayuga",
+        "| Jovee Marie de la Cruz",
+        "Jovee Marie de la Cruz",
+        "| JT Nisay",
+        "JT Nisay",
+        "| Karen AlparceVillanueva",
+        "Karen AlparceVillanueva",
+        "| Lenie Lectura", 
+        "Lenie Lectura",
+        "| Lorenz S. Marasigan",
+        "Lorenz S. Marasigan",
+        "| Ma. Stella F. Arnaldo",
+        "Ma. Stella F. Arnaldo",
+        "| Mila M. Lumactao",
+        "Mila M. Lumactao",
+        "| Nanette Guadalquiver | PNA",
+        "Nanette Guadalquiver | PNA",
+        "| Reine Juvierre Alberto",
+        "Reine Juvierre Alberto",
+        "| Reine Juvierre S. Alberto",
+        "Reine Juvierre S. Alberto",
+        "| Rizal Raoul S. Reyes",
+        "Rizal Raoul S. Reyes",
+        "| Rizal Raoul Reyes",
+        "Rizal Raoul Reyes",
+        "| Roderick Abad",
+        "Roderick Abad",
+        "| Samuel Medenilla",
+        "Samuel Medenilla",
+        "| Santiago F. Dumlao Jr.",
+        "Santiago F. Dumlao Jr.",
+        "| The Associated Press",
+        "The Associated Press",
+        "| Tony M. Maghirang",
+        "Tony M. Maghirang",
+        "| VG Cabuag",
+        "VG Cabuag",
+        "| Yang Guoliang",
+        "Yang Guoliang",
+        "| Yuki Hagiwara",
+        "Yuki Hagiwara"],
+    "Business Solution Profit":[
+        "- Business Solution Profit",
+        "Business Solution Profit"],
+    "Business Week":[
+        "Business Week National"],
+    "Business Week Mindanao":[
+        "Business Week National"],
+    "Business World Online":[
+        "| BusinessWorld Online",
+        "- BusinessWorld Online",
+        "BusinessWorld Online"],
+    "CebuFinest":[
+        "CebuFinest"],
+    "Cebu Online News Press Corps":[
+        "Cebu Online News Press Corps"],
+    "Charmerazo":[
+        "Charm Erazo"],
+    "Chasing Curious Alice":[
+        "- Chasingcuriousalice",
+        "Chasingcuriousalice"],
+    "ChiniMandi":[
+        "ChiniMandi"],
+    "Chronicles PH":[
+        "CHRONICLES PH"],
+    "Click The City  Online":[
+        "ClickTheCity"],
+    "Context.PH":[
+        "Context.ph"],
+    "Corner Magazine Philippines Online":[
+        "- Corner Magazine PH",
+        "Corner Magazine PH"],
+    "Cook Magazine Philippines Online":[
+        "- COOK MAGAZINE",
+        "COOK MAGAZINE"],
+    "Davao Bloggers":[
+        "Davao Bloggers"],
+    "deleciousfood":[
+        "- deleciousfood",
+        "deleciousfood"],
+    "Digicast Negros":[
+        "Digicast Negros"],
+    "Digital Pogi":[
+        "- Digital Pogi",
+        "Digital Pogi"],
+    "Digital Reg | Since 2004":[
+        "Digital Reg | Since 2004  Tech Review"],
+    "Diyaryo Milenyo":[
+        "Diyaryo Milenyo"],
+    "Dot Daily Dose":[
+        "- Dot Daily Dose",
+        "Dot Daily Dose"],
+    "DULDULAO DOT NET":[
+        "DULDULAO DOT NET This Day & Beyond"],
+    "EVERYTECHEVER":[
+        "| EveryTechEver",
+        "EveryTechEver"],
+    "Fact Patrol":[
+        "| FactPatrol",
+        "FactPatrol"],
+    "FintechNewsPh":[
+        "FintechNewsPh"],
+    "Fintech News Philippines":[
+        "Fintech News Philippines"],
+    "FilKnowsPH":[
+        "| FilKnowsPH",
+        "FilKnowsPH"],
+    "Flow Galindez":[
+        "www.FlowGalindez.com"],
+    "Gadabout Princess":[
+        "| GadAboutPrincess.com",
+        "GadAboutPrincess.com"],
+    "Getaway PH":[
+        "Getaway.PH"],
+    "Girl And Boy Thing":[
+        "GirlandBoyThing.com"],
+    "Girls Rock Investing":[
+        "Girls Rock Investing"],
+    "GMA News Online":[
+        " | Videos | GMA News Online",
+        "| Videos | GMA News Online"],
+    "Good News Pilipinas":[
+        "- GoodNewsPilipinas.com",
+        "GoodNewsPilipinas.com"],
+    "Hataw Tabloid":[
+        "HATAW! D yaryo ng Bayan"],
+    "HMO PH":[
+        "HMOph"],
+    "Hungrygeeks Com Ph":[
+        "Tech News, Reviews and Gaming Tips"],
+    "Ikot Ph":[
+        "IKOT.PH"],
+    "Iloilo Blogger":[
+        "Iloilo Blogger She Mae"],
+    "Inquirer Mobility":[
+        "Inquirer Mobility"],
+    "INQUIRER PLUS":[
+        "Philippine Daily Inquirer"],
+    "Inside Racing":[
+        "InsideRACING",
+        "  InsideRACING",
+        " – InsideRACING",
+        "–InsideRACING",
+        " - InsideRACING",
+        "-InsideRACING"],
+    "iOrbit News Online":[
+        "iOrbit News Online"],
+    "Jam Online":[
+        "Jam Online | Philippines Tech News & Reviews",
+        "Jam Online"],
+    "James Deakin":[
+        "| James Deakin"],
+    "Journal Daily News Online":[
+        "Journal Daily News Online"],
+    "Klajoo":[
+        "Klajoo  Philippine News",
+        "Klajoo Philippine News"],
+    "Klik.PH | Official Site":[
+        "Klik.PH | Official Site"],
+    "Levyuosa":[
+        "LEVYousa"],
+    "Leyte Samar Daily News":[
+        "Leyte Samar Daily News"],
+    "Licas News Philippines":[
+        "| Catholic News Philippines | LiCAS.news Philippines | Licas News",
+        "Catholic News Philippines | LiCAS.news Philippines | Licas News"],
+    "Lhyzie Bongon Blog":[
+        "- Life With Lhyzie",
+        "Life With Lhyzie"],
+    "Lifestyle On Wheels":[
+        "Lifestyle On Wheels"],
+    "LionhearTV":[
+        "- LionhearTV",
+        "LionhearTV"],
+    "Love, Teacher Angel Online":[
+        "| Love, Teacher Angel",
+        "Love, Teacher Angel"],
+    "Maharlika News":[
+        "MaharlikaNews | Canada Leading Online Filipino Newspaper Portal",
+        "MaharlikaNews | Canada s Leading Online Filipino Newspaper  No. 1 Information Hub for FilipinoCanadians with 250K Visitors in 2020"],
+    "Makingtrendz":[
+        "MAKING TRENDZ"],
+    "Malaya Business Insight Online":[
+        "Malaya Website",
+        "Malaya Business Insight"],
+    "Manila Society":[
+        "| ManilaSociety.com",
+        "ManilaSociety.com"],
+    "manilainsight":[
+        "- Manila Insight",
+        "Manila Insight"],
+    "Manila Republic":[
+        "- Manila Republic",
+        "Manila Republic"],
+    "Manila Shaker Philippines":[
+        "| ManilaShaker Philippines | Tech Reviews, Comparisons, and News"],
+    "Manila Standard":[
+        "Manila Standard"],
+    "Manila Standard Online":[
+        "- Manila Standard",
+        "Manila Standard"],
+    "Marketing in Asia":[
+        "- Marketing in Asia",
+        "Marketing in Asia"],
+    "metropoler":[
+        "| Metropoler",
+        "Metropoler"],
+    "Metro Guide":[
+        " | Metro Guide",
+        "Metro Guide"],
+    "Metro Sun Daily":[
+        "Metro Sun Daily"],
+    "Mindanao Daily News Online":[
+        "Mindanao Daily News"],
+    "MNL Today":[
+        "MNLToday.ph"],
+    "Modern Journal Trends":[
+        "- ModernJournalTrends",
+        "ModernJournalTrends"],
+    "Mommy Peach":[
+        "- Mommy Peach",
+        "Mommy Peach"],
+    "Motoph":[
+        "Motoph motoph.com",
+        "Motoph  motoph.com",
+        "- Motoph - motoph.com",
+        "Motoph - motoph.com"],
+    "MOTOURISMO":[
+        " | Motourismo",
+        "Motourismo"],
+    "mumwrites":[
+        "Mumwrites"],
+    "NewsFort-YourchoiceforNEWS":[
+        "| News Fort  Your choice for NEWS",
+        "News Fort  Your choice for NEWS"],
+    "News Press PH":[
+        "News Press"],
+    "NogNog in the city":[
+        "| Nognog in the City"],
+    "One News Philippines Online":[
+        "| OneNews.PH",
+        "OneNews.PH"],
+    "One Proud Mamma":[
+        "One Proud Momma"],
+    "Opengovasia":[
+        "OpenGov Asia"],
+    "Orange Magazine":[
+        "- Orange Magazine",
+        "Orange Magazine"],
+    "Page One":[
+        "PAGEONE"],
+    "Pampanga News Now":[
+        "Pampanga News Now"],
+    "pdailyforum":[
+        "People's Daily Forum",
+        "People s Daily Forum",
+        "Peoples Daily Forum"],
+    "Peopleasia Online":[
+        "- PeopleAsia",
+        "PeopleAsia"],
+    "Peoples Tonight Online":[
+        "Peoples Tonight Online"],
+    "Philippine Daily Inquirer":[
+        "-- THIS IS NOT PHYSICALLY PUBLISHED"],
+    "Philippine News Agency":[
+        " | Philippine News Agency",
+        "Philippine News Agency"],
+    "Philippines News Gazette":[
+        "Philippines News Gazette"],
+    "Philippines Times":[
+        "- Philippines Times",
+        "Philippines Times"],
+    "Philnews":[
+        "| PhilNews",
+        "PhilNews"],
+    "Philstar Tech":[
+        "Philstar Tech"],
+    "Pilipinas Daily":[
+        "| Pilipinas Daily",
+        "Pilipinas Daily"],
+    "Pilipino Mirror Online":[
+        "PILIPINO Mirror"],
+    "PinayAds":[
+        "| Top Lifestyle Blogger Philippines | Pinay Ads",
+        "Top Lifestyle Blogger Philippines | Pinay Ads",
+        "- Mommy Iris",
+        "Mommy Iris"],
+    "pinoyaksyonnews":[
+        "Pinoy Aksyon News"],
+    "Pinoy Bisnes Ideas":[
+        "Technavio"],
+    "Police Files! Tonite":[
+        "| Police Files! Tonite",
+        "Police Files! Tonite"],
+    "Politico Ph":[
+        "Politico.ph"],
+    "Portcalls":[
+        "PortCalls Asia"],
+    "Power Philippines":[
+        "| Power Philippines",
+        "Power Philippines"],
+    "Profit Insider Hub":[
+        "- Profit Insider Hub",
+        "Profit Insider Hub"],
+    "ProudlyFilipino.com - Highlighting the Best of the Philippines":[
+        "| ProudlyFilipino.com",
+        "ProudlyFilipino.com"],
+    "Punto Central LUzon":[
+        "Punto! Central Luzon"],
+    "Radio Philippines Network":[
+        "Radio Philippines Network"],
+    "rainCHECK":[
+        "| raincheckblog",
+        "raincheckblog"],
+    "Remate Online":[
+        "Remate Online"],
+    "Respect Investment":[
+        "- Respect Investment",
+        "Respect Investment"],
+    "Rezirb Online":[
+        "| ReZirb",
+        "ReZirb"],
+    "RMA NEWS":[
+        "RMAnews"],
+    "RMN Networks":[
+        "RMN Networks"],
+    "Safe Retirement Reports":[
+        "Safe Retirement Reports"],
+    "Saksi Ngayon":[
+        "SAKSI NGAYON"],
+    "Science And Digital News":[
+        "- SDN - Science & Digital News",
+        "- SDN  Science & Digital News",
+        "SDN  Science & Digital News"],
+    "Single Mom Super Mom":[
+        "| Single Mom Super Mom",
+        "Single Mom Super Mom"],
+    "Society Magazine |":[
+        "Society Magazine"],
+    "Society Magazine":[
+        "Society Magazine"],
+    "Society Magazine Online":[
+        "Society Magazine"],
+    "Speedpost":[
+        "SPEEDPOST NEWS PUBLISHING"],
+    "SugboDev":[
+        "SugboDev.com"],
+    "Techbroll":[
+        "TechBroll"],
+    "Tech Patrol Online":[
+        "Tech Patrol"],
+    "TechPinas":[
+        "TechPinas"],
+    "Techno Baboy":[
+        "Technobaboy",
+        "Techno Baboy"],
+    "Technophileph":[
+        "Technophile"],
+    "Testdrive":[
+        "Test Drive PH  Philippine Car Reviews | PH Auto Industry News | Car Events | Culture"],
+    "The Cagayan De Oro Times":[
+        "Cagayan de Oro Times"],
+    "The Cebuano":[
+        "The Cebuano"],
+    "The Chinitosanti Chronicles":[
+        "the chinitosanti chronicles"],
+    "The Diarist.Ph":[
+        "The Diarist.ph"],
+    "The Food and Travel Buff":[
+        " - The Food and Travel Buff",
+        "The Food and Travel Buff"],
+    "The Fanboy SEO":[
+        "- The Fanboy SEO",
+        "The Fanboy SEO"],
+    "The Luzon Daily":[
+        "| The Luzon Daily"],
+    "The Manila Post":[
+        "| TheManilaPost.net",
+        "TheManilaPost.net"],
+    "The Mindanao Life":[
+        "The Mindanao Life"],
+    "The Peach Kitchen":[
+        "- The Peaxh Kitchen",
+        "The Peach Kitchen"],
+    "The Philippine Herald |":[
+        "The Philippine Herald"],
+    "The Philippine Herald":[
+        "The Philippine Herald"],
+    "The Philippine Herald Online":[
+        "The Philippine Herald"],
+    "The Philippine Post":[
+        "| The Philippine Post"],
+    "The Philippines Graphic":[
+        "- Philippines Graphic",
+        "Philippines Graphic"],
+    "The Post":[
+        "The POST"],
+    "The Visayas Journal":[
+        "| The Visayas Journal"],
+    "Tomatomag.net":[
+        "Tomato Magazine"],
+    "Trade Like Gorillas":[
+        "- Trade Like Gorillas",
+        "Trade Like Gorillas"],
+    "Trend Slink":[
+        "- Trend Slink",
+        "Trend Slink"],
+    "Unli News":[
+        "Unli News"],
+    "Uptown Manila |":[
+        "Uptown Manila"],
+    "Uptown Manila":[
+        "Uptown Manila"],
+    "VicVic Bautista":[
+        "VicVic Bautista"],
+    "WHATSHAPPENINGMANILA.com":[
+        "- Whats Happening Manila",
+        "Whats Happening Manila"],
+    "What's New Philippines":[
+        "What s New Philippines"],
+    "Wheels Ph":[
+        "Philstar Wheels"],
+    "When In Manila  Online":[
+        "When In Manila"],
+    "Wheresrr":[
+        "Where s RR",
+        "Where's RR"],
+    "Where To":[
+        "Where To"],
+    "Woman":[
+        "| Woman.ph"]
+}

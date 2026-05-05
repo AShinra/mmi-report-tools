@@ -1,0 +1,10 @@
+{
+    "Broadsheet":"Local",
+    "Tabloid":"Local",
+    "Online News":"National",
+    "Blogs":"National",
+    "TV":"National",
+    "Radio":"National",
+    "Provincial":"Regional",
+    "Magazine":"National"
+}

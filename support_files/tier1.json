@@ -1,0 +1,59 @@
+{
+    "broadsheet":[
+        "Business Mirror",
+        "BusinessWorld",
+        "Daily Tribune",
+        "Malaya Business Insight",
+        "Manila Bulletin",
+        "Manila Standard",
+        "Manila Times",
+        "Philippine Daily Inquirer",
+        "Philippine Star"
+    ],
+    "online":[
+        "Business Mirror Online",
+        "BusinessWorld Online",
+        "Daily Tribune Online",
+        "Inquirer.Net",
+        "Malaya Business Insight Online",
+        "Manila Standard Online",
+        "Manila Bulletin Online",
+        "Manila Times Online",
+        "PhilStar",
+        "Rappler",
+        "Abante News Online",
+        "Journal Online",
+        "Pilipino Star Ngayon Online",
+        "Tempo Online"
+    ],
+    "tabloids":[
+        "Abante",
+        "Abante Tonite",
+        "Peoples Journal",
+        "Peoples Tonight",
+        "Pilipino Star Ngayon",
+        "Tempo"
+    ],
+    "tv":[
+        "ANC",
+        "GMA 7",
+        "GMANEWSTV",
+        "TV5",
+        "PTV4",
+        "Net25",
+        "UNTV",
+        "DZMM Teleradyo",
+        "DZRH TV"
+    ],
+    "radio":
+    [
+        "DWIZ",
+        "DWIQ",
+        "DZBB",
+        "DZMM",
+        "DZRB",
+        "DZRH AM",
+        "DZXL",
+        "Radyo 5"
+    ]
+}
